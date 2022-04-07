@@ -1,0 +1,113 @@
+1. Which Command is used to show limited number of commits?
+ git fetch
+ git log -n
+ git config
+ git status
+
+2. Which command defines the author email to be used for all commits by the current user.
+ git clean -f
+ git config --global user.email
+ git merge --no-ff
+ git email--amend
+
+3. ____________ command is useful for getting a high-level overview of the project history.
+ git log --oneline
+ git reset --hard
+ git log --author=""
+ git rebase
+
+4. ___________________ removes untracked files from your working directory.
+ git commit
+ git clean -f
+ git clean
+ git reset
+
+5. Which command creates an empty Git repository in the specified directory?
+ git reset
+ git log ..
+ git init
+ git init --bare
+
+6. Command to download all the objects and references from a specified repository
+ git config --list
+ git help
+ git fetch
+ git log -n
+
+7. Git command to compare two specified branches
+ git diff ...
+ git merge
+ git blame -L ,
+ git push --tags
+
+8. _____________ command renames the current branch to <branch>
+ git remote rm
+ git branch -m
+ git branch -D (CAPS)
+ git rebase
+
+9. Which Git command displays the patch representing each commit.
+ git branch
+ git remote -v
+ git log -p
+ git log
+
+10. Which of the following command line environment is used for interacting with Git ?
+ Git Bash
+ GitHub
+ Git Boot
+ Git Lab
+
+11. In Git, if you want to make your local repository reflect changes that have been made in a remote (tracked) repository, you should run the pull command
+ True
+ False
+
+12. If you want to make radical changes to your team’s project and don’t want to impact the rest of the team, you should implement your changes in -
+ the root
+ a tag
+ the trunk
+ None of the above
+
+13. The Git clone command does which of the following?
+ Makes a local copy of the repository
+ Creates a working directory
+ Commits a new branch
+ Both 1 & 2
+14. Which one of the following is not part of the data structure of a Git repository?
+ Branch pointer
+ Body element
+ Commit object
+ Head pointer
+
+15. Which of these Git client commands creates a copy of the repository and a working directory in the client’s workspace.
+ checkout
+ clone
+ import
+ update
+
+16. Git is a .................... Version Control tool.
+ Decentralized
+ Centralized
+
+17. GIT belongs to the............. generation of Version Control tools
+ 2nd
+ 3rd
+ 4th
+ 5th
+
+18. The main objectives of Git are -
+ speed
+ data integrity
+ support for distributed non-linear workflows
+ All of the above
+
+19. What language is used in Git?
+ C
+ HTML
+ PHP
+ C++
+20. Git command .................... used to give tags to the specified commit.
+ git checkout [branch name]
+ git show [commit]
+ git tag [commitID]
+ git rm [file]

@@ -7,11 +7,11 @@ A mini git assessment for developers
 
 > find the questions in main branch inside git_test.txt
 
-> checkout the contents of the file to a new brnach of your name.
+> checkout the contents of the file to a new branch of your name.
 
-> create a new file named answers...
+> create a new file named your_name_answers...
 
-    example contents of answers.txt
+    example contents of your_name_answers.txt
 
 0. A
 1. C

@@ -1,0 +1,20 @@
+1. git log -n
+2. git config --global user.email
+3. git log --oneline
+4. git clean -f
+5. git init
+6. git fetch
+7. git diff ...
+8. git branch -m
+9. git log -p
+10. Git Bash
+11. True
+12. None of the above
+13. Both 1 & 2
+14. Body element
+15. clone
+16. Decentralized
+17. 3rd
+18. All of the above
+19. PHP
+20. git tag [commitID]

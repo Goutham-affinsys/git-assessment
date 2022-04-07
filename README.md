@@ -7,7 +7,7 @@ A mini git assessment for developers
 
 > find the questions in main branch inside git_test.txt
 
-> checkout the contents fo the file to a new brnach of your name.
+> checkout the contents of the file to a new brnach of your name.
 
 > create a new file named answers...
 

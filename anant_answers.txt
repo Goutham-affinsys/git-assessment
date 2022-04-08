@@ -1,0 +1,155 @@
+1. Which Command is used to show limited number of commits?
+a) git fetch
+b) git log -n 
+c) git config
+d) git status
+
+Answer- b)git log -n 
+
+2. Which command defines the author email to be used for all commits by the current user.
+a) git clean -f
+b) git config --global user.email
+c) git merge --no-ff
+d) git email--amend
+
+Answer- b) git config --global user.email
+
+3. ____________ command is useful for getting a high-level overview of the project history.
+a) git log --oneline
+b) git reset --hard
+c) git log --author=""
+d) git rebase
+
+Answer- a) git log --oneline
+
+4. ___________________ removes untracked files from your working directory.
+a) git commit
+b) git clean -f
+c) git clean
+d) git reset
+
+Answer- c) git clean
+
+5. Which command creates an empty Git repository in the specified directory?
+a) git reset
+b) git log ..
+c) git init
+d) git init --bare
+
+Answer- c) git init
+
+6. Command to download all the objects and references from a specified repository
+a) git config --list
+b) git help
+c) git fetch
+d) git log -n
+
+Answer- c) git fetch
+
+7. Git command to compare two specified branches
+a) git diff ...
+b) git merge
+c) git blame -L ,
+d) git push --tags
+
+Answer- a) git diff ...
+
+8. _____________ command renames the current branch to <branch>
+a) git remote rm
+b) git branch -m
+c) git branch -D (CAPS)
+d) git rebase
+
+Answer- b) git branch -m
+
+9. Which Git command displays the patch representing each commit.
+a) git branch
+b) git remote -v
+c) git log -p
+d) git log
+
+Answer- c) git log -p
+
+10. Which of the following command line environment is used for interacting with Git ?
+a) Git Bash
+b) GitHub
+c) Git Boot
+d) Git Lab
+
+Answer- a) Git Bash
+
+11. In Git, if you want to make your local repository reflect changes that have been made in a remote (tracked) repository, you should run the pull command
+a) True
+b) False
+
+Answer-a) True
+
+12. If you want to make radical changes to your team’s project and don’t want to impact the rest of the team, you should implement your changes in -
+ the root
+a) a tag
+b) the trunk
+c) None of the above
+
+Answer-c)  None of the above
+
+13. The Git clone command does which of the following?
+a) Makes a local copy of the repository
+b) Creates a working directory
+c) Commits a new branch
+d) Both 1 & 2
+
+Answer-d) Both 1 & 2
+
+14. Which one of the following is not part of the data structure of a Git repository?
+a) Branch pointer
+b) Body element
+c) Commit object
+d) Head pointer
+
+Answer-b) Body element
+
+15. Which of these Git client commands creates a copy of the repository and a working directory in the client’s workspace.
+a) checkout
+b) clone
+c) import
+d) update
+
+Answer-b) clone
+
+16. Git is a .................... Version Control tool.
+a) Decentralized
+b) Centralized
+
+Answer- a) Decentralized
+
+17. GIT belongs to the............. generation of Version Control tools
+a) 2nd
+b) 3rd
+c) 4th
+d) 5th
+
+Answer-b) 3rd
+
+18. The main objectives of Git are -
+a) speed
+b) data integrity
+c) support for distributed non-linear workflows
+d) All of the above
+
+Answer- d) All of the above
+
+19. What language is used in Git?
+a) C
+b) HTML
+c) PHP
+d) C++
+
+Answer-a) C
+
+20. Git command .................... used to give tags to the specified commit.
+ a)git checkout [branch name]
+ b)git show [commit]
+ c)git tag [commitID]
+ d)git rm [file]
+
+Answer- c) git tag [commitID]

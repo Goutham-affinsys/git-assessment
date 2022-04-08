@@ -1,0 +1,20 @@
+1. B (git log -n)
+2. B git config --global user.email
+3. A git log --oneline
+4. B git clean -f
+5. C git init
+6. C git fetch
+7. A git diff ...
+8. C git branch -D (CAPS)
+9. C git log -p
+10. A Git Bash
+11. True
+12. D None of the above
+13. D Both 1 & 2
+14. B Body element
+15. B clone
+16. A Decentralized
+17. A 2nd (pure guess)
+18. D All of the above
+19. A C (pure guess)
+20. C git tag [commitID]

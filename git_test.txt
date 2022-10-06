@@ -1,17 +1,17 @@
 1. Which Command is used to show limited number of commits?
- git fetch
- git log -n
+ git fetch 
+ git log -n  //
  git config
  git status
 
 2. Which command defines the author email to be used for all commits by the current user.
  git clean -f
- git config --global user.email
+ git config --global user.email //
  git merge --no-ff
  git email--amend
 
 3. ____________ command is useful for getting a high-level overview of the project history.
- git log --oneline
+ git log --oneline //
  git reset --hard
  git log --author=""
  git rebase
@@ -25,7 +25,7 @@
 5. Which command creates an empty Git repository in the specified directory?
  git reset
  git log ..
- git init
+ git init 
  git init --bare
 
 6. Command to download all the objects and references from a specified repository
@@ -35,9 +35,9 @@
  git log -n
 
 7. Git command to compare two specified branches
- git diff ...
+ git diff ... 
  git merge
- git blame -L ,
+ git blame -L , 
  git push --tags
 
 8. _____________ command renames the current branch to <branch>
@@ -56,7 +56,7 @@
  Git Bash
  GitHub
  Git Boot
- Git Lab
+ Git Lab 
 
 11. In Git, if you want to make your local repository reflect changes that have been made in a remote (tracked) repository, you should run the pull command
  True
@@ -111,3 +111,26 @@
  git show [commit]
  git tag [commitID]
  git rm [file]
+
+
+-1. B
+-2. B
+-3. A
+-4. C
+-5. C
+-6. C
+-7. A
+-8. B
+-9. C
+-10. A
+-11. True
+-12. D
+-13. B
+-14. B
+-15. B
+-16. A
+-17. B
+-18. D
+-19. C
+-20. C
+
